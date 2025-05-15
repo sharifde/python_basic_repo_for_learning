@@ -24,3 +24,4 @@ python_basic_repo_for_learning/
 ├── file_io/
 │ └── read_write_file.py
 ├── README.md
+└── requirements.txt
